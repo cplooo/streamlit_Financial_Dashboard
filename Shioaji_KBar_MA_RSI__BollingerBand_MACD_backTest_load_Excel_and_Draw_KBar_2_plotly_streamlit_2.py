@@ -1,6 +1,6 @@
 # 載入必要模組
 #import haohaninfo
-from order_Lo8 import Record
+#from order_Lo8 import Record
 import numpy as np
 from talib.abstract import SMA,EMA, WMA, RSI, BBANDS, MACD
 #import sys
