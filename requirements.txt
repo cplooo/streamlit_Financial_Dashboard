@@ -6,4 +6,4 @@ streamlit-nested-layout
 matplotlib
 openpyxl
 plotly
-TA-Lib
+#TA-Lib
