@@ -147,7 +147,7 @@ cycle_duration = st.number_input('輸入一根 K 棒的時間長度(單位:分�
 cycle_duration = int(cycle_duration)
 #cycle_duration = 1440   ## 可以改成你想要的 KBar 週期
 #KBar = indicator_f_Lo2.KBar(Date,'time',2)
-KBar = indicator_forKBar.KBar(Date,cycle_duration)    ## 設定cycle_duration可以改成你想要的 KBar 週期
+KBar = indicator_forKBar_short.KBar(Date,cycle_duration)    ## 設定cycle_duration可以改成你想要的 KBar 週期
 
 #KBar_dic['amount'].shape   ##(5585,)
 #KBar_dic['amount'].size    ##5585
