@@ -5,3 +5,4 @@ streamlit_webrtc
 streamlit-nested-layout
 matplotlib
 openpyxl
+plotly
