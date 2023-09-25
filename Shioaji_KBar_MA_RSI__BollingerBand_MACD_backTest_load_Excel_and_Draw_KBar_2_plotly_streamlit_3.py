@@ -140,7 +140,7 @@ KBar_dic['amount']=np.array(KBar_amount_list)
 # Close_array = np.array([])
 # Volume_array = np.array([])
 
-Date = '20220701'
+Date = '2022-07-01'
 
 st.subheader("設定一根 K 棒的時間長度(分鐘)")
 cycle_duration = st.number_input('輸入一根 K 棒的時間長度(單位:分鐘, 一日=1440分鐘)', key="KBar_duration")
